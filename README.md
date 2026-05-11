@@ -12,6 +12,26 @@ open question
   -> crucible-decide
 ```
 
+## Gallery
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/01-crucible.png" alt="Crucible" width="100%"><br><sub>Crucible</sub></td>
+    <td align="center"><img src="assets/02-router.png" alt="Router" width="100%"><br><sub>Router</sub></td>
+    <td align="center"><img src="assets/03-panel.png" alt="Panel" width="100%"><br><sub>Panel</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/04-grill-me.png" alt="Grill Me" width="100%"><br><sub>Grill Me</sub></td>
+    <td align="center"><img src="assets/05-grill-you.png" alt="Grill You" width="100%"><br><sub>Grill You</sub></td>
+    <td align="center"><img src="assets/06-escalate.png" alt="Escalate" width="100%"><br><sub>Escalate</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/07-decide.png" alt="Decide" width="100%"><br><sub>Decide</sub></td>
+    <td align="center"><img src="assets/08-install.png" alt="Install" width="100%"><br><sub>Install</sub></td>
+    <td align="center"><img src="assets/09-next.png" alt="Next" width="100%"><br><sub>Next</sub></td>
+  </tr>
+</table>
+
 ## Skills
 
 | Skill | Use When | Output |
